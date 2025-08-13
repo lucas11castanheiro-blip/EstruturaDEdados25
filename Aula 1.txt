@@ -1,0 +1,10 @@
+variavel? -> nullable (Indica que a variável pode ser nula)
+
+
+
+concatenar strings ->
+
+ Console.WriteLine(
+    $"Seja bem-vindo {name}"
+
+);

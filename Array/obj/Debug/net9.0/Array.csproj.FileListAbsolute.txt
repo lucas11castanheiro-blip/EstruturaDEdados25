@@ -1,0 +1,14 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\bin\Debug\net9.0\Array.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\bin\Debug\net9.0\Array.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\bin\Debug\net9.0\Array.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\bin\Debug\net9.0\Array.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\refint\Array.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\ref\Array.dll
