@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\bin\Debug\net9.0\JeggedArrays.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\bin\Debug\net9.0\JeggedArrays.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\bin\Debug\net9.0\JeggedArrays.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\bin\Debug\net9.0\JeggedArrays.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\bin\Debug\net9.0\JeggedArrays.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\JeggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\JeggedArrays.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\JeggedArrays.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\JeggedArrays.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\JeggedArrays.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\JeggedArrays.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\refint\JeggedArrays.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\JeggedArrays.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\JeggedArrays.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\JeggedArrays\obj\Debug\net9.0\ref\JeggedArrays.dll
