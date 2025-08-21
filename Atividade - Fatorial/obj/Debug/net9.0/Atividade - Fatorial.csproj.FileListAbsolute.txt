@@ -1,0 +1,14 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\bin\Debug\net9.0\Atividade - Fatorial.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\bin\Debug\net9.0\Atividade - Fatorial.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\bin\Debug\net9.0\Atividade - Fatorial.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\bin\Debug\net9.0\Atividade - Fatorial.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\bin\Debug\net9.0\Atividade - Fatorial.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\obj\Debug\net9.0\Atividade - Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\obj\Debug\net9.0\Atividade - Fatorial.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\obj\Debug\net9.0\Atividade - Fatorial.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\obj\Debug\net9.0\Atividade - Fatorial.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\obj\Debug\net9.0\Atividade - Fatorial.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\obj\Debug\net9.0\refint\Atividade - Fatorial.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\obj\Debug\net9.0\Atividade - Fatorial.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\obj\Debug\net9.0\Atividade - Fatorial.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade - Fatorial\obj\Debug\net9.0\ref\Atividade - Fatorial.dll

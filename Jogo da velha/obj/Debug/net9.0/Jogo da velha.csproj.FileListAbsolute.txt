@@ -1,0 +1,14 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\bin\Debug\net9.0\Jogo da velha.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\bin\Debug\net9.0\Jogo da velha.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\bin\Debug\net9.0\Jogo da velha.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\bin\Debug\net9.0\Jogo da velha.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\bin\Debug\net9.0\Jogo da velha.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\Jogo da velha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\Jogo da velha.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\Jogo da velha.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\Jogo da velha.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\Jogo da velha.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\refint\Jogo da velha.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\Jogo da velha.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\Jogo da velha.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\ref\Jogo da velha.dll

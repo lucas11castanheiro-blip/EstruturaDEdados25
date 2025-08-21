@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\bin\Debug\net9.0\Recursividade.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\refint\Recursividade.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\ref\Recursividade.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Recursividade\obj\Debug\net9.0\Recursividade.sourcelink.json
