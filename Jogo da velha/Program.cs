@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 class Program
 {
     // Matriz que representa o tabuleiro do jogo
@@ -42,17 +42,74 @@ class Program
             if (int.TryParse(Console.ReadLine(), out int choice))
             {
                 // Lógica para converter a escolha (1-9) para os índices da matriz
-                int line = (choice - 1) / 3;
-                int column = (choice - 1) % 3;
-
-                if (line >= 0 && line < 3 && column >= 0 && column < 3 && board[line, column] != 'X' && board[line, column] != 'O')
+                switch (choice)
                 {
-                    board[line, column] = currentPlayer;
-                    InvalidPlay = true;
-                }
-                else
-                {
-                    Console.WriteLine("Jogada inválida! Tente novamente.");
+                    case 1:
+                        if (board[0, 0] != 'X' && board[0, 0] != 'O')
+                        {
+                            board[0, 0] = currentPlayer;
+                            InvalidPlay = true;
+                        }
+                        break;
+                    case 2:
+                        if (board[0, 1] != 'X' && board[0, 1] != 'O')
+                        {
+                            board[0, 1] = currentPlayer;
+                            InvalidPlay = true;
+                        }
+                        break;
+                    case 3:
+                        if (board[0, 2] != 'X' && board[0, 2] != 'O')
+                        {
+                            board[0, 2] = currentPlayer;
+                            InvalidPlay = true;
+                        }
+                        break;
+                    case 4:
+                        if (board[1, 0] != 'X' && board[1, 0] != 'O')
+                        {
+                            board[1, 0] = currentPlayer;
+                            InvalidPlay = true;
+                        }
+                        break;
+                    case 5:
+                        if (board[1, 1] != 'X' && board[1, 1] != 'O')
+                        {
+                            board[1, 1] = currentPlayer;
+                            InvalidPlay = true;
+                        }
+                        break;
+                    case 6:
+                        if (board[1, 2] != 'X' && board[1, 2] != 'O')
+                        {
+                            board[1, 2] = currentPlayer;
+                            InvalidPlay = true;
+                        }
+                        break;
+                    case 7:
+                        if (board[2, 0] != 'X' && board[2, 0] != 'O')
+                        {
+                            board[2, 0] = currentPlayer;
+                            InvalidPlay = true;
+                        }
+                        break;
+                    case 8:
+                        if (board[2, 1] != 'X' && board[2, 1] != 'O')
+                        {
+                            board[2, 1] = currentPlayer;
+                            InvalidPlay = true;
+                        }
+                        break;
+                    case 9:
+                        if (board[2, 2] != 'X' && board[2, 2] != 'O')
+                        {
+                            board[2, 2] = currentPlayer;
+                            InvalidPlay = true;
+                        }
+                        break;
+                    default:
+                        Console.WriteLine("Jogada inválida! Tente novamente.");
+                        break;
                 }
             }
             else
@@ -132,7 +189,7 @@ class Program
             if (CheckVictory())
             {
                 ShowBoard();
-                Console.WriteLine($"\nO jogador {currentPlayer} venceu!");
+                Console.WriteLine($"\nor {currentPlayer} venceu!");
                 GameOver = true;
             }
             else if (CheckTie())
