@@ -12,3 +12,4 @@ D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\
 D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\Jogo da velha.pdb
 D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\Jogo da velha.genruntimeconfig.cache
 D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da velha\obj\Debug\net9.0\ref\Jogo da velha.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Jogo da Velha\obj\Debug\net9.0\Jogo da velha.sourcelink.json

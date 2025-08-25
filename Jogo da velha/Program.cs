@@ -4,53 +4,53 @@
 class Program
 {
     // Matriz que representa o tabuleiro do jogo
-    static char[,] tabuleiro = new char[3, 3];
+    static char[,] board = new char[3, 3];
     // Variável para controlar o jogador atual ('X' ou 'O')
-    static char jogadorAtual = 'X';
+    static char currentPlayer = 'X';
 
     // Inicia o tabuleiro com os números de 1 a 9
-    static void InicializarTabuleiro()
+    static void InitializeBoard()
     {
-        char contador = '1';
+        char counter = '1';
         for (int i = 0; i < 3; i++)
         {
             for (int j = 0; j < 3; j++)
             {
-                tabuleiro[i, j] = contador++;
+                board[i, j] = counter++;
             }
         }
     }
 
-    static void ExibirTabuleiro()
+    static void ShowBoard()
     {
         Console.Clear(); // Limpa o console para uma exibição mais limpa
         Console.WriteLine("     |     |      ");
-        Console.WriteLine($"  {tabuleiro[0, 0]}  |  {tabuleiro[0, 1]}  |  {tabuleiro[0, 2]}   ");
+        Console.WriteLine($"  {board[0, 0]}  |  {board[0, 1]}  |  {board[0, 2]}   ");
         Console.WriteLine(" ____|_____|____ ");
         Console.WriteLine("     |     |      ");
-        Console.WriteLine($"  {tabuleiro[1, 0]}  |  {tabuleiro[1, 1]}  |  {tabuleiro[1, 2]}   ");
+        Console.WriteLine($"  {board[1, 0]}  |  {board[1, 1]}  |  {board[1, 2]}   ");
         Console.WriteLine(" ____|_____|____ ");
         Console.WriteLine("     |     |      ");
-        Console.WriteLine($"  {tabuleiro[2, 0]}  |  {tabuleiro[2, 1]}  |  {tabuleiro[2, 2]}   ");
+        Console.WriteLine($"  {board[2, 0]}  |  {board[2, 1]}  |  {board[2, 2]}   ");
         Console.WriteLine("     |     |      ");
     }
 
-    static void RealizarJogada()
+    static void MakeMove()
     {
-        bool jogadaValida = false;
-        while (!jogadaValida)
+        bool InvalidPlay = false;
+        while (!InvalidPlay)
         {
-            Console.Write($"\nJogador {jogadorAtual}, escolha sua posição (1-9): ");
-            if (int.TryParse(Console.ReadLine(), out int escolha))
+            Console.Write($"\nJogador {currentPlayer}, escolha sua posição (1-9): ");
+            if (int.TryParse(Console.ReadLine(), out int choice))
             {
                 // Lógica para converter a escolha (1-9) para os índices da matriz
-                int linha = (escolha - 1) / 3;
-                int coluna = (escolha - 1) % 3;
+                int line = (choice - 1) / 3;
+                int column = (choice - 1) % 3;
 
-                if (linha >= 0 && linha < 3 && coluna >= 0 && coluna < 3 && tabuleiro[linha, coluna] != 'X' && tabuleiro[linha, coluna] != 'O')
+                if (line >= 0 && line < 3 && column >= 0 && column < 3 && board[line, column] != 'X' && board[line, column] != 'O')
                 {
-                    tabuleiro[linha, coluna] = jogadorAtual;
-                    jogadaValida = true;
+                    board[line, column] = currentPlayer;
+                    InvalidPlay = true;
                 }
                 else
                 {
@@ -64,17 +64,24 @@ class Program
         }
     }
 
-    static void TrocarJogador()
+    static void ChangePlayer()
     {
-        jogadorAtual = (jogadorAtual == 'X') ? 'O' : 'X';
+        if(currentPlayer == 'X')
+        {
+            currentPlayer = 'O';
+        }
+        else
+        {
+            currentPlayer = 'X';
+        }
     }
 
-    static bool VerificarVitoria()
+    static bool CheckVictory()
     {
         // Verificar linhas
         for (int i = 0; i < 3; i++)
         {
-            if (tabuleiro[i, 0] == tabuleiro[i, 1] && tabuleiro[i, 1] == tabuleiro[i, 2])
+            if (board[i, 0] == board[i, 1] && board[i, 1] == board[i, 2])
             {
                 return true;
             }
@@ -83,15 +90,15 @@ class Program
         // Verificar colunas
         for (int i = 0; i < 3; i++)
         {
-            if (tabuleiro[0, i] == tabuleiro[1, i] && tabuleiro[1, i] == tabuleiro[2, i])
+            if (board[0, i] == board[1, i] && board[1, i] == board[2, i])
             {
                 return true;
             }
         }
 
         // Verificar diagonais
-        if ((tabuleiro[0, 0] == tabuleiro[1, 1] && tabuleiro[1, 1] == tabuleiro[2, 2]) ||
-            (tabuleiro[0, 2] == tabuleiro[1, 1] && tabuleiro[1, 1] == tabuleiro[2, 0]))
+        if ((board[0, 0] == board[1, 1] && board[1, 1] == board[2, 2]) ||
+            (board[0, 2] == board[1, 1] && board[1, 1] == board[2, 0]))
         {
             return true;
         }
@@ -99,13 +106,13 @@ class Program
         return false;
     }
 
-    static bool VerificarEmpate()
+    static bool CheckTie()
     {
         for (int i = 0; i < 3; i++)
         {
             for (int j = 0; j < 3; j++)
             {
-                if (tabuleiro[i, j] != 'X' && tabuleiro[i, j] != 'O')
+                if (board[i, j] != 'X' && board[i, j] != 'O')
                 {
                     return false; // Ainda existem posições livres
                 }
@@ -116,29 +123,29 @@ class Program
 
     static void Main(string[] args)
     {
-        InicializarTabuleiro();
-        bool fimDeJogo = false;
+        InitializeBoard();
+        bool GameOver = false;
 
-        while (!fimDeJogo)
+        while (!GameOver)
         {
-            ExibirTabuleiro();
-            RealizarJogada();
+            ShowBoard();
+            MakeMove();
 
-            if (VerificarVitoria())
+            if (CheckVictory())
             {
-                ExibirTabuleiro();
-                Console.WriteLine($"\nO jogador {jogadorAtual} venceu!");
-                fimDeJogo = true;
+                ShowBoard();
+                Console.WriteLine($"\nO jogador {currentPlayer} venceu!");
+                GameOver = true;
             }
-            else if (VerificarEmpate())
+            else if (CheckTie())
             {
-                ExibirTabuleiro();
+                ShowBoard();
                 Console.WriteLine("\nO jogo terminou em empate!");
-                fimDeJogo = true;
+                GameOver = true;
             }
             else
             {
-                TrocarJogador();
+                ChangePlayer();
             }
         }
 

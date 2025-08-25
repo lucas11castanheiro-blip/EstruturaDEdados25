@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da velha\\Jogo da velha.csproj": {}
+    "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da Velha\\Jogo da velha.csproj": {}
   },
   "projects": {
-    "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da velha\\Jogo da velha.csproj": {
+    "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da Velha\\Jogo da velha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da velha\\Jogo da velha.csproj",
+        "projectUniqueName": "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da Velha\\Jogo da velha.csproj",
         "projectName": "Jogo da velha",
-        "projectPath": "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da velha\\Jogo da velha.csproj",
+        "projectPath": "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da Velha\\Jogo da velha.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da velha\\obj\\",
+        "outputPath": "D:\\Unoesc - C#\\Estrutura de dados - 2º fase\\Atividades\\Jogo da Velha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
