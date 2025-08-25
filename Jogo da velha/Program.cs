@@ -1,6 +1,4 @@
 ﻿using System;
-
-// Classe principal do programa
 class Program
 {
     // Matriz que representa o tabuleiro do jogo
