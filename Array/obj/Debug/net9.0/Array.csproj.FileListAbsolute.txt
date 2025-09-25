@@ -12,3 +12,4 @@ D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\r
 D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.pdb
 D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
 D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\ref\Array.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Array\obj\Debug\net9.0\Array.sourcelink.json

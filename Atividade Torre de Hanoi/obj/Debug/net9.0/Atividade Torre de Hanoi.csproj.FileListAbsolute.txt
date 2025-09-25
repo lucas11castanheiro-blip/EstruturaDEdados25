@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\bin\Debug\net9.0\Atividade Torre de Hanoi.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\bin\Debug\net9.0\Atividade Torre de Hanoi.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\bin\Debug\net9.0\Atividade Torre de Hanoi.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\bin\Debug\net9.0\Atividade Torre de Hanoi.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\bin\Debug\net9.0\Atividade Torre de Hanoi.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\Atividade Torre de Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\Atividade Torre de Hanoi.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\Atividade Torre de Hanoi.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\Atividade Torre de Hanoi.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\Atividade Torre de Hanoi.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\Atividade Torre de Hanoi.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\refint\Atividade Torre de Hanoi.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\Atividade Torre de Hanoi.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\Atividade Torre de Hanoi.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Atividade Torre de Hanoi\obj\Debug\net9.0\ref\Atividade Torre de Hanoi.dll

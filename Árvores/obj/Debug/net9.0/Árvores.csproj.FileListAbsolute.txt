@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\Árvores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\Árvores.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\Árvores.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\Árvores.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\Árvores.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\bin\Debug\net9.0\Árvores.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\bin\Debug\net9.0\Árvores.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\bin\Debug\net9.0\Árvores.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\bin\Debug\net9.0\Árvores.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\bin\Debug\net9.0\Árvores.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\Árvores.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\refint\Árvores.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\Árvores.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\Árvores.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Árvores\obj\Debug\net9.0\ref\Árvores.dll

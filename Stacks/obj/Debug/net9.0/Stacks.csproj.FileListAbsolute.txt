@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\Stacks.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\Stacks.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\Stacks.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\Stacks.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\bin\Debug\net9.0\Stacks.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\bin\Debug\net9.0\Stacks.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\bin\Debug\net9.0\Stacks.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\bin\Debug\net9.0\Stacks.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\bin\Debug\net9.0\Stacks.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\Stacks.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\refint\Stacks.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\Stacks.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\Stacks.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Stacks\obj\Debug\net9.0\ref\Stacks.dll

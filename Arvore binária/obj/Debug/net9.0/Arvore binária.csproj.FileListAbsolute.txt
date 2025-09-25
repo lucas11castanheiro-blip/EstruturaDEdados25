@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\Arvore binária.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\Arvore binária.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\Arvore binária.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\Arvore binária.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\Arvore binária.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\bin\Debug\net9.0\Arvore binária.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\bin\Debug\net9.0\Arvore binária.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\bin\Debug\net9.0\Arvore binária.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\bin\Debug\net9.0\Arvore binária.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\bin\Debug\net9.0\Arvore binária.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\Arvore binária.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\refint\Arvore binária.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\Arvore binária.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\Arvore binária.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Arvore Binária\obj\Debug\net9.0\ref\Arvore binária.dll

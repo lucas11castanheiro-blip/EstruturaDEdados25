@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\Filas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\Filas.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\Filas.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\Filas.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\Filas.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\bin\Debug\net9.0\Filas.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\bin\Debug\net9.0\Filas.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\bin\Debug\net9.0\Filas.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\bin\Debug\net9.0\Filas.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\bin\Debug\net9.0\Filas.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\Filas.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\refint\Filas.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\Filas.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\Filas.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Filas\obj\Debug\net9.0\ref\Filas.dll

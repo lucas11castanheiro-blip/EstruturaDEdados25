@@ -1,0 +1,5 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\CompanyTree\obj\Debug\net9.0\CompanyTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\CompanyTree\obj\Debug\net9.0\CompanyTree.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\CompanyTree\obj\Debug\net9.0\CompanyTree.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\CompanyTree\obj\Debug\net9.0\CompanyTree.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\CompanyTree\obj\Debug\net9.0\CompanyTree.sourcelink.json
