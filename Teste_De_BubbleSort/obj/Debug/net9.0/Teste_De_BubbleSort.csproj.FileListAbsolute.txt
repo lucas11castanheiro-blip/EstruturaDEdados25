@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\Teste_De_BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\Teste_De_BubbleSort.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\Teste_De_BubbleSort.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\Teste_De_BubbleSort.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\Teste_De_BubbleSort.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\bin\Debug\net9.0\Teste_De_BubbleSort.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\bin\Debug\net9.0\Teste_De_BubbleSort.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\bin\Debug\net9.0\Teste_De_BubbleSort.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\bin\Debug\net9.0\Teste_De_BubbleSort.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\bin\Debug\net9.0\Teste_De_BubbleSort.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\Teste_De_BubbleSort.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\refint\Teste_De_BubbleSort.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\Teste_De_BubbleSort.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\Teste_De_BubbleSort.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Teste_De_BubbleSort\obj\Debug\net9.0\ref\Teste_De_BubbleSort.dll

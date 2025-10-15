@@ -8,7 +8,7 @@
         foreach (var c in "Lucas")
         {
             chars.Push(c);
-        }
+        } 
 
         while (chars.Count > 0)
         {

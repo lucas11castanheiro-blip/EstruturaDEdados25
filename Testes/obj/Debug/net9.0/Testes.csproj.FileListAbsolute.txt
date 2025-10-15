@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\bin\Debug\net9.0\Testes.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\bin\Debug\net9.0\Testes.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\bin\Debug\net9.0\Testes.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\bin\Debug\net9.0\Testes.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\bin\Debug\net9.0\Testes.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\Testes.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\Testes.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\Testes.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\Testes.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\Testes.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\refint\Testes.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\Testes.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\Testes.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Testes\obj\Debug\net9.0\ref\Testes.dll
