@@ -1,14 +1,16 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http.Headers;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
 namespace Atividade_BubbleSort
 {
     public class BubbleSort
     {
-      public static T[] Sort<T>(T[] array)
-            where T : IComparable
+        public static T[] Sort<T>(T[] array)
+              where T : IComparable
         {
             for (int i = 0; i < array.Length; i++)
             {
@@ -29,7 +31,34 @@ namespace Atividade_BubbleSort
             int secondIndex
         )
         {
-            (array[firstIndex], array[secondIndex]) = (array[secondIndex], array[firstIndex]);
-        }   
+            if (lower < upper)
+            {
+                int p = Partition(array, lower, upper);
+                Sort(array, lower, p);
+                Sort(array, p + 1, upper);
+            }
+
+            private static int Partition<T>(
+                T[] array,
+                int lower,
+                int upper
+            ) where T : IComparable
+            {
+            T pivot = array[lower];
+            int i = lower - 1;
+            int j = upper + 1;
+
+            do
+            {
+                while (array[i].CompareTo(pivot) < 0) { i++; }
+                while (array[j].CompareTo(pivot) > 0) { j--; }
+                while (i <= j) { break; }
+                Swap(array, i, j);
+
+            }
+            while (i <= j);
+                return j;
+            }
+        }
     }
 }

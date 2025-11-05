@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\bin\Debug\net9.0\QuickSort.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\bin\Debug\net9.0\QuickSort.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\bin\Debug\net9.0\QuickSort.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\bin\Debug\net9.0\QuickSort.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\bin\Debug\net9.0\QuickSort.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\QuickSort.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\QuickSort.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\QuickSort.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\QuickSort.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\QuickSort.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\refint\QuickSort.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\QuickSort.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\QuickSort.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\QuickSort\obj\Debug\net9.0\ref\QuickSort.dll
