@@ -1,0 +1,15 @@
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\Desafio unidade III.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\Desafio unidade III.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\Desafio unidade III.AssemblyInfo.cs
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\Desafio unidade III.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\Desafio unidade III.sourcelink.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\bin\Debug\net9.0\Desafio unidade III.exe
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\bin\Debug\net9.0\Desafio unidade III.deps.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\bin\Debug\net9.0\Desafio unidade III.runtimeconfig.json
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\bin\Debug\net9.0\Desafio unidade III.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\bin\Debug\net9.0\Desafio unidade III.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\Desafio unidade III.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\refint\Desafio unidade III.dll
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\Desafio unidade III.pdb
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\Desafio unidade III.genruntimeconfig.cache
+D:\Unoesc - C#\Estrutura de dados - 2º fase\Atividades\Desafio unidade III\obj\Debug\net9.0\ref\Desafio unidade III.dll
